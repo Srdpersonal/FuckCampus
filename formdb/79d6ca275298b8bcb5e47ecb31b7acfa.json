@@ -1,0 +1,126 @@
+[
+    {
+        "wid": "12600",
+        "formWid": "1245",
+        "fieldType": 1,
+        "title": "上午体温",
+        "description": "正常体温区间36-37.4",
+        "minLength": 1,
+        "sort": "1",
+        "maxLength": 300,
+        "isRequired": 1,
+        "imageCount": -2,
+        "hasOtherItems": 0,
+        "colName": "field001",
+        "value": "山东省/泰安市/肥城市",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+        {
+            "itemWid": "29659",
+            "content": "36.5",
+            "isOtherItems": 0,
+            "contendExtend": null,
+            "isSelected": 1  
+        }          
+        ]
+    },
+    {
+        "wid": "12601",
+        "formWid": "1245",
+        "fieldType": 2,
+        "title": "下午体温",
+        "description": "正常体温区间36-37.4",
+        "minLength": 0,
+        "sort": "2",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field002",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "29659",
+                "content": "36.5",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    },
+    {
+        "wid": "12602",
+        "formWid": "1245",
+        "fieldType": 2,
+        "title": "是否有胸闷、干咳、腹泻症状",
+        "description": "",
+        "minLength": 0,
+        "sort": "3",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 1,
+        "colName": "field003",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "29662",
+                "content": "是",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            }
+        ]
+    },
+    {
+        "wid": "12603",
+        "formWid": "1245",
+        "fieldType": 2,
+        "title": "健康码颜色",
+        "description": "",
+        "minLength": 0,
+        "sort": "4",
+        "maxLength": null,
+        "isRequired": 1,
+        "imageCount": null,
+        "hasOtherItems": 0,
+        "colName": "field004",
+        "value": "",
+        "minValue": 0.0,
+        "maxValue": 0.0,
+        "isDecimal": true,
+        "fieldItems": [
+            {
+                "itemWid": "29667",
+                "content": "绿色",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": 1
+            },
+            {
+                "itemWid": "29668",
+                "content": "红色",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null
+            },
+            {
+                "itemWid": "29668",
+                "content": "黄色",
+                "isOtherItems": 0,
+                "contendExtend": null,
+                "isSelected": null 
+            }
+        ]
+    }
+    
+        ]
+    
